@@ -1,7 +1,5 @@
 import React from "react";
-import { Button } from "../components/Button/Button";
-
-// import { Button } from "../components";
+import { Input, Button, Label } from '../components';
 
 export const Welcome = () => {
   return (
