@@ -18,7 +18,6 @@ import React from 'react'
 export const Button = ({ text }) => {
     return (
         <>
-            <div>hello</div>
             <button disabled type="submit" id="next-btn">
                 {text}
             </button>
